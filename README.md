@@ -69,3 +69,5 @@ Patch `.npz` keys:
 ## Note
 
 This repo includes a complete implementation scaffold and deterministic tests. Real benchmark replication requires SKEMPI/CATH data assets and trained runs.
+
+# ddg_predictor
